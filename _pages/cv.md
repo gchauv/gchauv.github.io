@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Sciences, University of Evry Paris-Saclay, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2024: Associate Professor
+  * Southeast University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2020: Assistant Researcher 
+  * Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016: Postdoctoral Research Fellow
+  * Baptist University of Hong Kong
+  * Supervisor: Xiaowen Chu
+
+* 2015: Postdoctoral Research Fellow
+  * City University of Hong Kong
+  * Supervisor: Minming Li
+
+* Fall 2014: Visiting Researcher
+  * University of Athens, Greece
+  * Supervisor: Vassilis Zissimopoulos
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  1
+*  2
+  * Sub 2.1
+  * Sub 2.2
+  * Sub 2.3
 
 Publications
 ======
@@ -47,18 +47,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
