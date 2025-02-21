@@ -19,6 +19,3 @@ Research Interests
 Publications
 ======
 Under construction. See [DBLP](https://dblp.org/pid/85/11145.html) for an exhaustive list of publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
