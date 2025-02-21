@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Webpage of Vincent Chau"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
